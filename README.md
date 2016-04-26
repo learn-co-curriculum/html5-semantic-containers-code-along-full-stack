@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Surround existing content with HTML5 Semantic Elemnts
+1. Surround existing content with HTML5 Semantic Elements
 
 ## Introduction
 
