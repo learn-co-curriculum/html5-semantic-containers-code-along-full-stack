@@ -131,7 +131,7 @@ Don't forget to indent the content such as the video and image that are nested i
 
 Normally you would add these HTML5 semantic elements where applicable to all of your site pages. I will add these to the other pages for you and the next code along will already habe them present in its starter code. We just did it on the index page for some practice. Nice work!
 
-It's now time to version our changes using Git. To do so, in Terminal type `git add index.html` and press return. Then type `git commit -m "add semantic containers to index"` and prss return. Then push up this feature branch `git push -u origin html5-layout` and press return. Next merge the change sinto your master branch. Type `git checkout master` and press return, then `git merge html5-layout` and press return. Then `git push origin master` and press return.
+It's now time to version our changes using Git. To do so, in Terminal type `git add index.html` and press return. Then type `git commit -m "add semantic containers to index"` and press return. Then push up this feature branch `git push -u origin html5-layout` and press return. Next merge the change sinto your master branch. Type `git checkout master` and press return, then `git merge html5-layout` and press return. Then `git push origin master` and press return.
 
 After you finish, make sure you <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">install Firefox</a> if you haven't already as it is required for the screenshot tests to run. Then, type `learn` command from Terminal to run local tests (Mac) or type `learn-test` for Windows.
 
